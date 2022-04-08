@@ -27,3 +27,6 @@ y que retorne {mcd(a, b), x, y}, donde mcd(a, b) = ax + by (x, y ∈ Z).
   4. Necesitamos ingresar dos valores de tipo entero-no-negativos,
      el programa nos unicamente que sean valores enteros-no-negativos.
   5. Al final nos entregara un resultado esperado del arlgoritmo como tal.
+  
+  EJEMPLO:
+  [![Captura-de-pantalla-de-2022-04-07-23-49-41.png](https://i.postimg.cc/zvtfMQYq/Captura-de-pantalla-de-2022-04-07-23-49-41.png)](https://postimg.cc/0KSxKcN4)
