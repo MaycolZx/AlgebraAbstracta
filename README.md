@@ -20,4 +20,10 @@ y que retorne {mcd(a, b), x, y}, donde mcd(a, b) = ax + by (x, y ∈ Z).
   b, lo que contradice la hipótesis. 
   
   Instrucciones para la ejecucion del Codigo:
-  
+  1. Entraremos al directorio Euclides/main.py.
+  2. Ejecutaremos el codigo.
+  3. Nos pedira que ingresemos dos valores de manera consecutiva
+     tanto para la variable "a" como para la variable "b".
+  4. Necesitamos ingresar dos valores de tipo entero-no-negativos,
+     el programa nos unicamente que sean valores enteros-no-negativos.
+  5. Al final nos entregara un resultado esperado del arlgoritmo como tal.
