@@ -5,7 +5,9 @@ Actividad : Implementar el Algoritmo Extendido de Euclides.
 Intregrantes
 
 -Maycol Alexander Canaveri Taco
+
 -Christian Mellado Baca
+
 -Marela Dafne Mendoza Sueros
 
 Implementar un programa que permita ingresar dos números a y b (enteros no-negativos)
